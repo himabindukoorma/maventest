@@ -44,8 +44,8 @@
           <target>1.5</target>
         </configuration>
       </plugin>
-      <finalName>devops82</finalName>
+      <fina
     </plugins>
   </build>
 
-</project>
+    </project>
